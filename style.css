@@ -74,7 +74,7 @@ nav ul li a:hover::after{
 /*                           about                   */
 
 #about{
-    padding: 300px 0;
+    padding: 400px 0;
     color: #ababab;
 }
 .row{
@@ -137,8 +137,14 @@ nav ul li a:hover::after{
     display: block;
 }
 
+
+
+
 #portfolio{
-    padding:1px 0;
+    margin-top: -250px;
+}
+.sub-title{
+font-size: 50px;
 }
 .work-list{
     display:grid;
